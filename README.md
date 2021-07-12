@@ -14,12 +14,11 @@
 </a>
 </br>
 
-I am Pankaj Sharma pursuing bachelors from SKIT ,Jaipur. My main interest lies in Data Science,Machine Learning,Competitive Programming and Deep learning. I also have knowledge of python programming, data structures,CNN,flask framework,statics.I have intermediate knowledge of Tableau . I am always curious to learn something new and do implementation.
+I am Pankaj Sharma pursuing bachelors from SKIT ,Jaipur. My main interest lies in Web development and Digital marketing. I also have knowledge of python programming, data structures.I have intermediate knowledge of web development . I am always eager to learn something New.
 
-
-- 🔭 I’m currently working on machine learning,Competitive Programming and data structure. 
-- 🌱 I’m currently learning machine learning algorithms.
-- 👯 I’m looking to work on Open Source Contribution.
-- 🤔 I’m looking for help with getting started carrer in field of Data Science and ML.
+- 🔭 I’m currently working on web development and data structure. 
+- 🌱 I’m currently learning Javascript.
+- 👯 I’m looking to work on Open Source Project.
+- 🤔 I’m looking for help with getting started carrer in field of web development.
 
 - ⚡ Fun fact: I like to learn more.
